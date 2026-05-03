@@ -1,6 +1,6 @@
 # Olist E-Commerce Executive Dashboard — Power BI
 
-![Dashboard Preview](screenshots/01_executive_overview.png)
+![Dashboard Preview](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/01.png)
 
 ## Project Overview
 
