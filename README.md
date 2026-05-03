@@ -1,6 +1,5 @@
 # Olist E-Commerce Executive Dashboard — Power BI
 
-![Dashboard Preview](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/01.png)
 
 ## Project Overview
 
@@ -59,7 +58,7 @@ The hero page. Answers five business questions in under 10 seconds.
 ---
 
 ### Page 2 — Sales Performance
-![Sales Performance](screenshots/02_sales_performance.png)
+![Sales Performance](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/02.png)
 
 Revenue analysis by product category and seller performance.
 
@@ -74,7 +73,7 @@ Revenue analysis by product category and seller performance.
 ---
 
 ### Page 3 — Customer Behaviour
-![Customer Behavior](screenshots/03_customer_behavior.png)
+![Customer Behavior](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/03.png)
 
 Payment preferences, satisfaction distribution, and geographic 
 concentration analysis.
@@ -93,7 +92,7 @@ concentration analysis.
 ---
 
 ### Page 4 — Logistics and Delivery
-![Logistics and Delivery](screenshots/04_logistics_delivery.png)
+![Logistics and Delivery](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/04.png)
 
 Delivery performance analysis by state and freight cost by category.
 
@@ -111,7 +110,7 @@ Delivery performance analysis by state and freight cost by category.
 ---
 
 ### Page 5 — Insights and Recommendations
-![Insights and Recommendations](screenshots/05_insights_recommendations.png)
+![Insights and Recommendations](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/05.png)
 
 The analytical conclusion. Four data-driven findings mapped directly 
 to four strategic recommendations — the page that separates this 
