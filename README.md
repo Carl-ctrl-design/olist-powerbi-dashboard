@@ -41,7 +41,7 @@ correction required.
 ## Dashboard Pages
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard/blob/main/screenshots/01.png)
 
 The hero page. Answers five business questions in under 10 seconds.
 
